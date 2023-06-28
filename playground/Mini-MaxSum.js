@@ -1,4 +1,4 @@
-arr = [3, 4, 1, 2, 5];
+ let arr = [3, 4, 1, 2, 5];
 
 function miniMaxSum(arr) {
   // Write your code here
